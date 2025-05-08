@@ -1,4 +1,4 @@
-# Assignment HireQuotient - Clone of Notion Homepage
+##Clone of Notion Homepage
 
 ## Overview
 
@@ -19,13 +19,13 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/hirequotient-assignment-1.git
+    git clone https://github.com/your-username/folder.git
     ```
 
 2. Navigate to the project directory.
 
     ```bash
-    cd hirequotient-assignment-1
+    cd folder
     ```
 
 3. Install dependencies.
@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 After installation, you can start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 This command will run the app in the development mode, and you can open [http://localhost:3000](http://localhost:3000) in your browser to view the cloned Notion homepage.
@@ -49,7 +49,5 @@ This command will run the app in the development mode, and you can open [http://
 - React
 - Tailwind CSS
 
-## Acknowledgments
 
-Special thanks to HireQuotient for providing this assignment opportunity.
 
